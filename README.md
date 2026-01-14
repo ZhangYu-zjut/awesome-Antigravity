@@ -1,5 +1,7 @@
 # Awesome Antigravity
 
+This is a development branch for the [Awesome Antigravity](https://github.com/antigravity/awesome-antigravity) project.
+
 > 🚀 **The ultimate collection of Agent Personas, Mission Templates, and Troubleshooting guides for Google's new ​**[**Antigravity IDE**](https://www.google.com/search?q=https://antigravity.google "null")**.**
 
 <div align="center">
