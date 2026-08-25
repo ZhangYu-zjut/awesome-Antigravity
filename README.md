@@ -37,6 +37,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**Legacy Refactor**​: How to guide an Agent to refactor old codebases without breaking dependencies.
 * [*👉 Get the templates here...*](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null")
 
+### Extensions & Community Tools
+
+* **[Antigravity Context Meter](https://github.com/Dunphil692/antigravity-context-meter)**: Real-time 1:1 Cursor-style context meter & zero-loss session migration for Antigravity (Desktop HUD & IDE Extension).
+
 ### Troubleshooting & Fixes
 
 * ​**Rate Limit Bypass Strategies**​: How to optimize context windows to save credits.
