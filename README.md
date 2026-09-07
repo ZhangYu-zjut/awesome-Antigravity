@@ -37,6 +37,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**Legacy Refactor**​: How to guide an Agent to refactor old codebases without breaking dependencies.
 * [*👉 Get the templates here...*](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null")
 
+### Extensions & Community Tools
+
+* **[antigravity-skill-porter](https://github.com/Pranav-Nexus/antigravity-skill-porter)**: Import, convert, and optimize Claude Code / Cursor skills into native Google Antigravity multi-agent plugins (`invoke_subagent` parallelization, artifact generation, and manifest bundling).
+
 ### Troubleshooting & Fixes
 
 * ​**Rate Limit Bypass Strategies**​: How to optimize context windows to save credits.
