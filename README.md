@@ -42,6 +42,7 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**Rate Limit Bypass Strategies**​: How to optimize context windows to save credits.
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
+* **[antiburn](https://github.com/antiburn/antiburn)**: Free, local desktop app that reads Antigravity sessions and checks them for common causes of token burn: sessions too deep, broken caching, and unused MCP servers, skills, and tools. Also supports Claude Code, Codex, Cursor, and more.
 
 ## Why use the Website?
 
