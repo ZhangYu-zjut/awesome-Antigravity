@@ -42,6 +42,11 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**Rate Limit Bypass Strategies**​: How to optimize context windows to save credits.
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
+  
+* ### Companion Tools & Remote Interfaces
+
+* **[AnywhereDesign](https://anywheredesign.site)**: Local-first voice cockpit and remote mobile interface for Google Antigravity & Claude Code. Orchestrate agent missions from your phone via local QR pairing with real-time voice dictation, live terminal logs, and zero-token mobile Git sync.
+
 
 ## Why use the Website?
 
