@@ -37,6 +37,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**Legacy Refactor**​: How to guide an Agent to refactor old codebases without breaking dependencies.
 * [*👉 Get the templates here...*](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null")
 
+### Extensions & Community Tools
+
+* **[agy-meme](https://github.com/jiangnanquan/agy-meme)**: Bidirectional Neko reaction stickers, inline composer picker (`Cmd/Ctrl+Shift+M`), and Desktop-isolated MCP server (`send_meme`, `meme_list`, `learn_meme`, `meme_update`) for Antigravity Desktop.
+
 ### Troubleshooting & Fixes
 
 * ​**Rate Limit Bypass Strategies**​: How to optimize context windows to save credits.
