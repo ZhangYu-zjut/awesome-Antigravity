@@ -52,6 +52,10 @@ While this repo serves as an index, our website [**awesome-antigravity.com**](ht
 3. ​**Visual Previews**​: See what the Agent output looks like before you try.
 4. ​**Dark Mode**​: Obviously.
 
+### Extensions & Community Tools
+
+* **[agy-desktop-exo](https://github.com/jiangnanquan/agy-desktop-exo)** - UX enhancements (compact wide-layout toggle, inline `.xlsx`/`.docx`/`.pptx`/`.epub` sidebar preview with one-click external open) and Simplified Chinese localization for Google Antigravity Desktop.
+
 ## Contributing
 
 We welcome contributions! The best way to contribute is to submit your findings:
