@@ -43,6 +43,12 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
 
+### Integrations & MCP Plugins
+
+> Connect external data and tools to your Antigravity agents.
+
+* **[Palace](https://github.com/AncientiCe/palace-rs)**: Local-first memory for coding agents: one Rust binary and one SQLite file, local embeddings, hybrid BM25 plus vector search. On Antigravity, `palace install --client antigravity` writes MCP config to `~/.gemini/config/mcp_config.json` and an always-on rule to `~/.gemini/config/rules/palace.md`. LongMemEval s_cleaned retrieval recall R@5 0.987. Not associated in any way with the popular mempalace python.
+
 ## Why use the Website?
 
 While this repo serves as an index, our website [**awesome-antigravity.com**](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null") offers:
