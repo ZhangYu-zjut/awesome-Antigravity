@@ -43,6 +43,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
 
+### Extensions & Community Tools
+
+* **[antigravity-zh-cn](https://github.com/yuanwansi/antigravity-zh-cn)** - Zero-dependency Simplified Chinese localization engine and official-format companion plugin for Google Antigravity 2.0 Desktop (Windows, macOS, Linux) with native menu patching, live language toggle, and lossless SHA-256 restore.
+
 ## Why use the Website?
 
 While this repo serves as an index, our website [**awesome-antigravity.com**](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null") offers:
