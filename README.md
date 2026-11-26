@@ -43,6 +43,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
 
+### Extensions & Community Tools
+
+* **[antigravity-split-workbench](https://github.com/RZRZ-Q/antigravity-split-workbench)** - Smart BSP auto-splitting side-pane workbench plugin for Google Antigravity App: view files, `localhost` & zero-server local HTML previews, real interactive PTY terminals, and session artifacts side-by-side or stacked with per-pane colors, orientation toggle, and Quote support.
+
 ## Why use the Website?
 
 While this repo serves as an index, our website [**awesome-antigravity.com**](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null") offers:
