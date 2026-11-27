@@ -43,6 +43,10 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 * ​**"Agent Stuck" Fixes**​: What to do when Mission Control freezes.
 * ​**Extension Compatibility List**​: Which VS Code extensions work perfectly in Antigravity.
 
+### Community Plugins & MCP Apps
+
+* **[Antigravity Action Launchpad](https://github.com/404kidwiz/antigravity-action-launchpad)**: Zero-framework inline MCP App plugin that replaces typing `"go"` with 1-line keyboard command pills (`1`–`3`, `d` to expand), a zero-jump hover `Why`/`What` Decision Inspector, A2UI-inspired ChoicePicker chips & inline short text fields, 2-step danger confirmation, and a 1-paste Slim/Full agent setup (MIT, macOS / Linux / Windows).
+
 ## Why use the Website?
 
 While this repo serves as an index, our website [**awesome-antigravity.com**](https://www.google.com/url?sa=E&source=gmail&q=https://awesome-antigravity.com/ "null") offers:
