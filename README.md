@@ -24,6 +24,7 @@ Google Antigravity is the first "Agent-first" IDE, powered by Gemini 3. It chang
 
 > Copy these into your Agent settings to give them specialized skills.
 
+* [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) - 159 native cybersecurity, multi-language SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, 21,100+ 1-Day CVE verification, 29-protocol enumeration & Outbound Internal Network Tunnel v4.0 MCP tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 * ​**The Ruthless Reviewer**​: An agent that doesn't just fix code, but critiques architecture and security vulnerabilities.
 * ​**React Component Specialist**​: Specifically tuned for modern React + Tailwind patterns, avoiding legacy class components.
 * ​**Unit Test Guardian**​: Automatically generates Jest/Vitest cases for every file you touch.
